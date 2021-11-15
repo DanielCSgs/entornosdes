@@ -9,7 +9,7 @@
   <body>
 
    <h1>Header</h1>
-   <h2>Hola</h2>
+   <h2>Holaa</h2>
 
    <img src="imagenes/increibles.png" width="100px"/>
    <nav>
